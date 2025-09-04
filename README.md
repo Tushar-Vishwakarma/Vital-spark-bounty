@@ -29,5 +29,6 @@ Components should be reusable across other VitalSpark modules
 
 Clear naming conventions and documentation for future collaborators
 
-![vitalspark_](https://github.com/user-attachments/assets/d64013b3-e225-4bd1-8921-68929fc16f2d)
+
+![vitalspark_](https://github.com/user-attachments/assets/2741544e-d8f4-4c76-a3c1-2e14779c6cf1)
 
